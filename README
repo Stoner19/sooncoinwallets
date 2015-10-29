@@ -3,12 +3,12 @@ If you're on already at https://github.com/Stoner19/sooncoinwallets
 Then just look for the button that says "Download ZIP". Look to your right --->
 *******************************************************************************
 
-InfluxWallets.tk (originally forked from WalletGenerator.net)
+sooncoinWallets.tk (originally forked from WalletGenerator.net)
 Universal Client-Side Wallet Generator
 
 Now whycoin wallets addresses and their corresponding private key can be conveniently generated in a web browser.
 
-The InfluxWallets.tk  project provides an all-in-one HTML document with embedded JavaScript/Css/Images. The JavaScript is readable, not minified and contains no XMLHttpRequest's (no AJAX). The benefit of this technique is you can load the JavaScript locally and trust that the JavaScript did not change after being loaded. 
+The sooncoinWallets.tk  project provides an all-in-one HTML document with embedded JavaScript/Css/Images. The JavaScript is readable, not minified and contains no XMLHttpRequest's (no AJAX). The benefit of this technique is you can load the JavaScript locally and trust that the JavaScript did not change after being loaded. 
 
 
 Please send DONATIONS for this project using the crypto-currency addresses available on the 'Donate' tab of the website.
